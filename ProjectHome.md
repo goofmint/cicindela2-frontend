@@ -1,0 +1,1 @@
+cicindela2-frontend is Web application for cicindela2 user. It's convert url and user session id to integer.
